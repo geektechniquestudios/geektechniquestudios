@@ -1,6 +1,6 @@
-#### Howdy
----
-Hit me up at geektechniquestudios@gmail.com for any reason. 
+## Howdy
 
-[ChessWager](https://github.com/geektechniquestudios/ChessWager) is my current focus.
+Shoot me a message at geektechniquestudios@gmail.com for any reason. 
+
+Check out [ChessWager](https://github.com/geektechniquestudios/ChessWager), my current focus.
 
